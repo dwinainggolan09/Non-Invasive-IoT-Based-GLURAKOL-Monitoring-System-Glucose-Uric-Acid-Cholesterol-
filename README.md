@@ -542,32 +542,6 @@ Contributions are welcome! Please follow these steps:
 - Test on hardware before PR
 - Update documentation if needed
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
-```
-
----
-
-## 👥 Contact
-
-**Project Maintainer**: Dwi Aprino Nainggolan
-
-- 📧 Email: dwigolan@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/dwinainggolan](https://www.linkedin.com/in/dwinainggolan)
-- 🐱 GitHub: [@yourusername](https://github.com/dwinainggolan09)
-
-**Project Link**: [https://github.com/yourusername/glurakol-iot-monitoring](https://github.com/dwinainggolan09/Non-Invasive-IoT-Based-GLURAKOL-Monitoring-System-Glucose-Uric-Acid-Cholesterol)
 
 ---
 
@@ -579,14 +553,6 @@ of this software and associated documentation files...
 - **Maxim Integrated** - MAX30105 sensor documentation
 - **GCU Easy Touch** - Reference meter calibration
 
-
----
-
-## ⭐ Star History
-
-If this project helped you, please consider giving it a ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dwinainggolan09/Non-Invasive-IoT-Based-GLURAKOL-Monitoring-System-Glucose-Uric-Acid-Cholesterol&type=Date)](https://star-history.com/#dwinainggolan09/Non-Invasive-IoT-Based-GLURAKOL-Monitoring-System-Glucose-Uric-Acid-Cholesterol&Date)
 
 
 ---
@@ -603,4 +569,4 @@ If this project helped you, please consider giving it a ⭐!
 
 ---
 
-**Made with ❤️ for better health monitoring**
+
